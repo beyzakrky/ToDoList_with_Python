@@ -1,0 +1,14 @@
+[
+    {
+        "metin": "Diferansiyel Denklemler Ödevi Yapılacak",
+        "oncelik": "Yüksek",
+        "tarih": "20.04.2026",
+        "tamamlandi": false
+    },
+    {
+        "metin": "Hackathon Sunumu Hazırlanacak",
+        "oncelik": "Orta",
+        "tarih": "22.04.2026",
+        "tamamlandi": true
+    }
+]
